@@ -1,6 +1,7 @@
 import { graphql } from 'react-apollo'
 import gql from 'graphql-tag'
 import { allPosts, allPostsQueryVars } from './PostList'
+import { Button } from '@8securities/ui'
 
 function Submit ({ createPost }) {
   function handleSubmit (event) {
@@ -19,7 +20,7 @@ function Submit ({ createPost }) {
       <h1>Submit</h1>
       <input placeholder='title' name='title' type='text' required />
       <input placeholder='url' name='url' type='url' required />
-      <button type='submit'>Submit</button>
+      <Button type='submit'>Submit</Button>
       <style jsx>{`
         form {
           border-bottom: 1px solid #ececec;
