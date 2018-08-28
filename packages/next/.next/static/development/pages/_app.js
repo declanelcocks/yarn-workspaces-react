@@ -4,9 +4,9 @@ __NEXT_REGISTER_PAGE('/_app', function() {
         (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/_app.js"],{
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/array/from.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15,9 +15,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/array/from */ "../..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/get-iterator.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26,9 +26,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ "../
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/is-iterable.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -37,9 +37,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/assign.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/assign.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -48,9 +48,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/assign */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/create.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/create.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -59,9 +59,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/create */ "..
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/define-property.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
-  \************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/define-property.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -70,9 +70,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/define-proper
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js":
-/*!************************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
-  \************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-descriptor.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -81,9 +81,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
-  \*********************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/get-own-property-symbols.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -92,9 +92,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-own-prope
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
-  \*************************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/get-prototype-of.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -103,9 +103,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/get-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/keys.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/keys.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -114,9 +114,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/keys */ "../.
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js":
-/*!*************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
-  \*************************************************************************************************************************/
+/*!******************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/object/set-prototype-of.js ***!
+  \******************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -125,9 +125,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/object/set-prototype
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/promise.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/promise.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -136,9 +136,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/promise */ "../../no
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
-  \*******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/reflect/construct.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -147,9 +147,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/reflect/construct */
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/set.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/set.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/set.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -158,9 +158,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/set */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/symbol.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -169,9 +169,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol */ "../../nod
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
-  \*****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/core-js/symbol/iterator.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -180,9 +180,9 @@ module.exports = __webpack_require__(/*! core-js/library/fn/symbol/iterator */ "
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/arrayWithHoles.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -195,9 +195,9 @@ module.exports = _arrayWithHoles;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js ***!
-  \*******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/arrayWithoutHoles.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -216,9 +216,9 @@ module.exports = _arrayWithoutHoles;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
-  \***********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/assertThisInitialized.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -235,9 +235,9 @@ module.exports = _assertThisInitialized;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js ***!
-  \******************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/asyncToGenerator.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -284,9 +284,9 @@ module.exports = _asyncToGenerator;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/classCallCheck.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -301,9 +301,9 @@ module.exports = _classCallCheck;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/construct.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/construct.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/construct.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -346,9 +346,9 @@ module.exports = _construct;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/createClass.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/createClass.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -376,9 +376,9 @@ module.exports = _createClass;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/defineProperty.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/defineProperty.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/defineProperty.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -404,9 +404,9 @@ module.exports = _defineProperty;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/extends.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/extends.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/extends.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -435,9 +435,9 @@ module.exports = _extends;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/getPrototypeOf.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -457,9 +457,9 @@ module.exports = _getPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/inherits.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/inherits.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -487,9 +487,9 @@ module.exports = _inherits;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
-  \***********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/interopRequireDefault.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -504,9 +504,9 @@ module.exports = _interopRequireDefault;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
-  \************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/interopRequireWildcard.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -544,9 +544,9 @@ module.exports = _interopRequireWildcard;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js ***!
-  \*****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/iterableToArray.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -563,9 +563,9 @@ module.exports = _iterableToArray;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js ***!
-  \**********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/iterableToArrayLimit.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -602,9 +602,9 @@ module.exports = _iterableToArrayLimit;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js ***!
-  \*****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/nonIterableRest.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -617,9 +617,9 @@ module.exports = _nonIterableRest;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js ***!
-  \*******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/nonIterableSpread.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -632,9 +632,9 @@ module.exports = _nonIterableSpread;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/objectSpread.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/objectSpread.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/objectSpread.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -671,9 +671,9 @@ module.exports = _objectSpread;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js":
-/*!***************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
-  \***************************************************************************************************************************/
+/*!********************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/possibleConstructorReturn.js ***!
+  \********************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -694,9 +694,9 @@ module.exports = _possibleConstructorReturn;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/setPrototypeOf.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -716,9 +716,9 @@ module.exports = _setPrototypeOf;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/slicedToArray.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -737,9 +737,9 @@ module.exports = _slicedToArray;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js ***!
-  \*******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/toConsumableArray.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -758,9 +758,9 @@ module.exports = _toConsumableArray;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/helpers/typeof.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/helpers/typeof.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -789,9 +789,9 @@ module.exports = _typeof;
 /***/ }),
 
 /***/ "../../node_modules/@babel/runtime-corejs2/regenerator/index.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/@babel/runtime-corejs2/regenerator/index.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -801,9 +801,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/apollo-boost/lib/index.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-boost/lib/index.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-boost/lib/index.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -909,9 +909,9 @@ exports.default = DefaultClient;
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/fragmentMatcher.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/fragmentMatcher.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/fragmentMatcher.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: HeuristicFragmentMatcher, IntrospectionFragmentMatcher */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1014,9 +1014,9 @@ var IntrospectionFragmentMatcher = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/inMemoryCache.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/inMemoryCache.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/inMemoryCache.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: defaultDataIdFromObject, InMemoryCache */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1266,9 +1266,9 @@ var InMemoryCache = (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/index.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/index.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/index.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: InMemoryCache, defaultDataIdFromObject, ID_KEY, readQueryFromStore, diffQueryAgainstStore, assertIdValue, WriteError, enhanceErrorWithDocument, writeQueryToStore, writeResultToStore, writeSelectionSetToStore, HeuristicFragmentMatcher, IntrospectionFragmentMatcher, ObjectCache, defaultNormalizedCacheFactory, RecordingCache, record */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1325,9 +1325,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/objectCache.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/objectCache.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/objectCache.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: ObjectCache, defaultNormalizedCacheFactory */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1369,9 +1369,9 @@ function defaultNormalizedCacheFactory(seed) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/readFromStore.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/readFromStore.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/readFromStore.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: ID_KEY, readQueryFromStore, diffQueryAgainstStore, assertIdValue */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1539,9 +1539,9 @@ function areNestedArrayItemsStrictlyEqual(a, b) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/recordingCache.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/recordingCache.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/recordingCache.js ***!
+  \****************************************************************************************************************/
 /*! exports provided: RecordingCache, record */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1610,9 +1610,9 @@ function record(startingState, transaction) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache-inmemory/lib/writeToStore.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/writeToStore.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache-inmemory/lib/writeToStore.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: WriteError, enhanceErrorWithDocument, writeQueryToStore, writeResultToStore, writeSelectionSetToStore */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1938,9 +1938,9 @@ function processArrayValue(value, generatedId, selectionSet, context) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache/lib/cache.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache/lib/cache.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache/lib/cache.js ***!
+  \**********************************************************************************************/
 /*! exports provided: ApolloCache */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2026,9 +2026,9 @@ var ApolloCache = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache/lib/index.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache/lib/index.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache/lib/index.js ***!
+  \**********************************************************************************************/
 /*! exports provided: ApolloCache, Cache */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2047,9 +2047,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache/lib/types/Cache.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache/lib/types/Cache.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache/lib/types/Cache.js ***!
+  \****************************************************************************************************/
 /*! exports provided: Cache */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2064,9 +2064,9 @@ var Cache;
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache/lib/types/index.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache/lib/types/index.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache/lib/types/index.js ***!
+  \****************************************************************************************************/
 /*! exports provided: Cache */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2081,9 +2081,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-cache/lib/utils.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-cache/lib/utils.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-cache/lib/utils.js ***!
+  \**********************************************************************************************/
 /*! exports provided: queryFromPojo, fragmentFromPojo, justTypenameQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2195,9 +2195,9 @@ var justTypenameQuery = {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/ApolloClient.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/ApolloClient.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/ApolloClient.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2416,9 +2416,9 @@ var ApolloClient = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/core/ObservableQuery.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/core/ObservableQuery.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/core/ObservableQuery.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: hasError, ObservableQuery */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -2787,9 +2787,9 @@ var ObservableQuery = (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/core/QueryManager.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/core/QueryManager.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/core/QueryManager.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: QueryManager */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3684,9 +3684,9 @@ var QueryManager = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/core/networkStatus.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/core/networkStatus.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/core/networkStatus.js ***!
+  \********************************************************************************************************/
 /*! exports provided: NetworkStatus, isNetworkRequestInFlight */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3712,9 +3712,9 @@ function isNetworkRequestInFlight(networkStatus) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/core/types.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/core/types.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/core/types.js ***!
+  \************************************************************************************************/
 /*! exports provided: FetchType */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3732,9 +3732,9 @@ var FetchType;
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/data/mutations.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/data/mutations.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/data/mutations.js ***!
+  \****************************************************************************************************/
 /*! exports provided: MutationStore */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3786,9 +3786,9 @@ var MutationStore = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/data/queries.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/data/queries.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/data/queries.js ***!
+  \**************************************************************************************************/
 /*! exports provided: QueryStore */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -3924,9 +3924,9 @@ var QueryStore = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/data/store.js":
-/*!*******************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/data/store.js ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/data/store.js ***!
+  \************************************************************************************************/
 /*! exports provided: DataStore */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4076,9 +4076,9 @@ var DataStore = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/errors/ApolloError.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/errors/ApolloError.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/errors/ApolloError.js ***!
+  \********************************************************************************************************/
 /*! exports provided: isApolloError, ApolloError */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4143,9 +4143,9 @@ var ApolloError = (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/index.js":
-/*!**************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/index.js ***!
-  \**************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/index.js ***!
+  \*******************************************************************************************/
 /*! exports provided: printAST, ObservableQuery, NetworkStatus, ApolloError, ApolloClient, default, FetchType */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4182,9 +4182,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/scheduler/scheduler.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/scheduler/scheduler.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/scheduler/scheduler.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: QueryScheduler */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4309,9 +4309,9 @@ var QueryScheduler = (function () {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/util/Observable.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/util/Observable.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/util/Observable.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: Observable */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4354,9 +4354,9 @@ var Observable = (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-client/version.js":
-/*!****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-client/version.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-client/version.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -4365,9 +4365,9 @@ exports.version = "2.4.1"
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-dedup/lib/dedupLink.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-dedup/lib/dedupLink.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-dedup/lib/dedupLink.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: DedupLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4462,9 +4462,9 @@ var DedupLink = /** @class */ (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-dedup/lib/index.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-dedup/lib/index.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-dedup/lib/index.js ***!
+  \***************************************************************************************************/
 /*! exports provided: DedupLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4479,9 +4479,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-error/lib/index.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-error/lib/index.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-error/lib/index.js ***!
+  \***************************************************************************************************/
 /*! exports provided: onError, ErrorLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4586,9 +4586,9 @@ var ErrorLink = /** @class */ (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-http-common/lib/index.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-http-common/lib/index.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-http-common/lib/index.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: fallbackHttpConfig, throwServerError, parseAndCheckHttpResponse, checkFetcher, createSignalIfSupported, selectHttpOptionsAndBody, serializeFetchParameter, selectURI */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4746,9 +4746,9 @@ var selectURI = function (operation, fallbackURI) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-http/lib/httpLink.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-http/lib/httpLink.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-http/lib/httpLink.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: createHttpLink, HttpLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4966,9 +4966,9 @@ var HttpLink = /** @class */ (function (_super) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-http/lib/index.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-http/lib/index.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-http/lib/index.js ***!
+  \**************************************************************************************************/
 /*! exports provided: createHttpLink, HttpLink */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4985,9 +4985,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-state/lib/index.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-state/lib/index.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-state/lib/index.js ***!
+  \***************************************************************************************************/
 /*! exports provided: withClientState */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5102,9 +5102,9 @@ var withClientState = function (clientStateConfig) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link-state/lib/utils.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link-state/lib/utils.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link-state/lib/utils.js ***!
+  \***************************************************************************************************/
 /*! exports provided: removeClientSetsFromDocument */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5132,9 +5132,9 @@ function removeClientSetsFromDocument(query) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link/lib/index.js":
-/*!****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link/lib/index.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link/lib/index.js ***!
+  \*********************************************************************************************/
 /*! exports provided: createOperation, makePromise, toPromise, fromPromise, fromError, Observable, empty, from, split, concat, ApolloLink, execute */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5176,9 +5176,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-link/lib/link.js":
-/*!***************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link/lib/link.js ***!
-  \***************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link/lib/link.js ***!
+  \********************************************************************************************/
 /*! exports provided: empty, from, split, concat, ApolloLink, execute */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5276,9 +5276,9 @@ function execute(link, operation) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-link/lib/linkUtils.js":
-/*!********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-link/lib/linkUtils.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-link/lib/linkUtils.js ***!
+  \*************************************************************************************************/
 /*! exports provided: validateOperation, LinkError, isTerminating, toPromise, makePromise, fromPromise, fromError, transformOperation, createOperation, getKey */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5432,9 +5432,9 @@ function getKey(operation) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/directives.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/directives.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/directives.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: getDirectiveInfoFromField, shouldInclude, flattenSelections, getDirectiveNames, hasDirectives */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5534,9 +5534,9 @@ function hasDirectives(names, doc) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/fragments.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/fragments.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/fragments.js ***!
+  \******************************************************************************************************/
 /*! exports provided: getFragmentQueryDocument */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5597,9 +5597,9 @@ function getFragmentQueryDocument(document, fragmentName) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/getFromAST.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/getFromAST.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/getFromAST.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: getMutationDefinition, checkDocument, getOperationDefinition, getOperationDefinitionOrDie, getOperationName, getFragmentDefinitions, getQueryDefinition, getFragmentDefinition, getMainDefinition, createFragmentMap, getDefaultValues, variablesInOperation */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5753,9 +5753,9 @@ function variablesInOperation(operation) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/index.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/index.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/index.js ***!
+  \**************************************************************************************************/
 /*! exports provided: getDirectiveInfoFromField, shouldInclude, flattenSelections, getDirectiveNames, hasDirectives, getFragmentQueryDocument, getMutationDefinition, checkDocument, getOperationDefinition, getOperationDefinitionOrDie, getOperationName, getFragmentDefinitions, getQueryDefinition, getFragmentDefinition, getMainDefinition, createFragmentMap, getDefaultValues, variablesInOperation, removeDirectivesFromDocument, addTypenameToDocument, removeConnectionDirectiveFromDocument, getDirectivesFromDocument, isScalarValue, isNumberValue, valueToObjectRepresentation, storeKeyNameFromField, getStoreKeyName, argumentsObjectFromField, resultKeyNameFromField, isField, isInlineFragment, isIdValue, toIdValue, isJsonValue, valueFromNode, assign, cloneDeep, getEnv, isEnv, isProduction, isDevelopment, isTest, tryFunctionOrLogError, graphQLResultHasError, isEqual, maybeDeepFreeze, warnOnceInDevelopment, stripSymbols */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5888,9 +5888,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/storeUtils.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/storeUtils.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/storeUtils.js ***!
+  \*******************************************************************************************************/
 /*! exports provided: isScalarValue, isNumberValue, valueToObjectRepresentation, storeKeyNameFromField, getStoreKeyName, argumentsObjectFromField, resultKeyNameFromField, isField, isInlineFragment, isIdValue, toIdValue, isJsonValue, valueFromNode */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6132,9 +6132,9 @@ function valueFromNode(node, onVariable) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/transform.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/transform.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/transform.js ***!
+  \******************************************************************************************************/
 /*! exports provided: removeDirectivesFromDocument, addTypenameToDocument, removeConnectionDirectiveFromDocument, getDirectivesFromDocument */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6326,9 +6326,9 @@ function getDirectivesFromDocument(directives, doc, includeAllFragments) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/assign.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/assign.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/assign.js ***!
+  \********************************************************************************************************/
 /*! exports provided: assign */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6355,9 +6355,9 @@ function assign(target) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/cloneDeep.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/cloneDeep.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/cloneDeep.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: cloneDeep */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6384,9 +6384,9 @@ function cloneDeep(value) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/environment.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/environment.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/environment.js ***!
+  \*************************************************************************************************************/
 /*! exports provided: getEnv, isEnv, isProduction, isDevelopment, isTest */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6421,9 +6421,9 @@ function isTest() {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/errorHandling.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/errorHandling.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/errorHandling.js ***!
+  \***************************************************************************************************************/
 /*! exports provided: tryFunctionOrLogError, graphQLResultHasError */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6449,9 +6449,9 @@ function graphQLResultHasError(result) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/isEqual.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/isEqual.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/isEqual.js ***!
+  \*********************************************************************************************************/
 /*! exports provided: isEqual */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6493,9 +6493,9 @@ function isEqual(a, b) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/maybeDeepFreeze.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/maybeDeepFreeze.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/maybeDeepFreeze.js ***!
+  \*****************************************************************************************************************/
 /*! exports provided: maybeDeepFreeze */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6529,9 +6529,9 @@ function maybeDeepFreeze(obj) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/stripSymbols.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/stripSymbols.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/stripSymbols.js ***!
+  \**************************************************************************************************************/
 /*! exports provided: stripSymbols */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6546,9 +6546,9 @@ function stripSymbols(data) {
 /***/ }),
 
 /***/ "../../node_modules/apollo-utilities/lib/util/warnOnce.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/warnOnce.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/apollo-utilities/lib/util/warnOnce.js ***!
+  \**********************************************************************************************************/
 /*! exports provided: warnOnceInDevelopment */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -6581,9 +6581,9 @@ function warnOnceInDevelopment(msg, type) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/array/from.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/array/from.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/array/from.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6595,9 +6595,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/get-iterator.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/get-iterator.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/get-iterator.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6609,9 +6609,9 @@ module.exports = __webpack_require__(/*! ../modules/core.get-iterator */ "../../
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/is-iterable.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/is-iterable.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/is-iterable.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6623,9 +6623,9 @@ module.exports = __webpack_require__(/*! ../modules/core.is-iterable */ "../../n
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/assign.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/assign.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/assign.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6636,9 +6636,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/create.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/create.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/create.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6652,9 +6652,9 @@ module.exports = function create(P, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/define-property.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/define-property.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/define-property.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6668,9 +6668,9 @@ module.exports = function defineProperty(it, key, desc) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-descriptor.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/get-own-property-descriptor.js ***!
-  \************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/get-own-property-descriptor.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6684,9 +6684,9 @@ module.exports = function getOwnPropertyDescriptor(it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-own-property-symbols.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/get-own-property-symbols.js ***!
-  \*********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/get-own-property-symbols.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6697,9 +6697,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/get-prototype-of.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/get-prototype-of.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6710,9 +6710,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/keys.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/keys.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/keys.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6723,9 +6723,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/object/set-prototype-of.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/object/set-prototype-of.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6736,9 +6736,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/promise.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/promise.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/promise.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6754,9 +6754,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/reflect/construct.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/reflect/construct.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/reflect/construct.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6767,9 +6767,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/set.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/set.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/set.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6786,9 +6786,9 @@ module.exports = __webpack_require__(/*! ../modules/_core */ "../../node_modules
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/index.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/symbol/index.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/symbol/index.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6802,9 +6802,9 @@ module.exports = __webpack_require__(/*! ../../modules/_core */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/fn/symbol/iterator.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/fn/symbol/iterator.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/fn/symbol/iterator.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6816,9 +6816,9 @@ module.exports = __webpack_require__(/*! ../../modules/_wks-ext */ "../../node_m
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_a-function.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_a-function.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_a-function.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -6831,9 +6831,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_add-to-unscopables.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_add-to-unscopables.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -6843,9 +6843,9 @@ module.exports = function () { /* empty */ };
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-instance.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_an-instance.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_an-instance.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -6859,9 +6859,9 @@ module.exports = function (it, Constructor, name, forbiddenField) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_an-object.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_an-object.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_an-object.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6875,9 +6875,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-from-iterable.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_array-from-iterable.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_array-from-iterable.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6893,9 +6893,9 @@ module.exports = function (iter, ITERATOR) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-includes.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_array-includes.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_array-includes.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6927,9 +6927,9 @@ module.exports = function (IS_INCLUDES) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-methods.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_array-methods.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_array-methods.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6982,9 +6982,9 @@ module.exports = function (TYPE, $create) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-constructor.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_array-species-constructor.js ***!
-  \*********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_array-species-constructor.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7009,9 +7009,9 @@ module.exports = function (original) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_array-species-create.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_array-species-create.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_array-species-create.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7026,9 +7026,9 @@ module.exports = function (original, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_bind.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_bind.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_bind.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7063,9 +7063,9 @@ module.exports = Function.bind || function bind(that /* , ...args */) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_classof.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_classof.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_classof.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7097,9 +7097,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_cof.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_cof.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_cof.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7113,9 +7113,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-strong.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_collection-strong.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_collection-strong.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7269,9 +7269,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection-to-json.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_collection-to-json.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_collection-to-json.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7289,9 +7289,9 @@ module.exports = function (NAME) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_collection.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_collection.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_collection.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7360,9 +7360,9 @@ module.exports = function (NAME, wrapper, methods, common, IS_MAP, IS_WEAK) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_core.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_core.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_core.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7373,9 +7373,9 @@ if (typeof __e == 'number') __e = core; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_create-property.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_create-property.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_create-property.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7393,9 +7393,9 @@ module.exports = function (object, index, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ctx.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_ctx.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_ctx.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7424,9 +7424,9 @@ module.exports = function (fn, that, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_defined.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_defined.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_defined.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7440,9 +7440,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_descriptors.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_descriptors.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_descriptors.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7455,9 +7455,9 @@ module.exports = !__webpack_require__(/*! ./_fails */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_dom-create.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_dom-create.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_dom-create.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7473,9 +7473,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-bug-keys.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_enum-bug-keys.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7488,9 +7488,9 @@ module.exports = (
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_enum-keys.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_enum-keys.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_enum-keys.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7514,9 +7514,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_export.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_export.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_export.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7587,9 +7587,9 @@ module.exports = $export;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_fails.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_fails.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_fails.js ***!
+  \******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7605,9 +7605,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_for-of.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_for-of.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_for-of.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7641,9 +7641,9 @@ exports.RETURN = RETURN;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_global.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_global.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_global.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7658,9 +7658,9 @@ if (typeof __g == 'number') __g = global; // eslint-disable-line no-undef
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_has.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_has.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_has.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7673,9 +7673,9 @@ module.exports = function (it, key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_hide.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_hide.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_hide.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7692,9 +7692,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_html.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_html.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_html.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7705,9 +7705,9 @@ module.exports = document && document.documentElement;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_ie8-dom-define.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_ie8-dom-define.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7719,9 +7719,9 @@ module.exports = !__webpack_require__(/*! ./_descriptors */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_invoke.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_invoke.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_invoke.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7746,9 +7746,9 @@ module.exports = function (fn, args, that) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iobject.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_iobject.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_iobject.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7763,9 +7763,9 @@ module.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array-iter.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_is-array-iter.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_is-array-iter.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7782,9 +7782,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-array.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_is-array.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_is-array.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7798,9 +7798,9 @@ module.exports = Array.isArray || function isArray(arg) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_is-object.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_is-object.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_is-object.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7812,9 +7812,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-call.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-call.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-call.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7835,9 +7835,9 @@ module.exports = function (iterator, fn, value, entries) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-create.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-create.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-create.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7860,9 +7860,9 @@ module.exports = function (Constructor, NAME, next) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-define.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-define.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-define.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7941,9 +7941,9 @@ module.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCE
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-detect.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-detect.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-detect.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -7974,9 +7974,9 @@ module.exports = function (exec, skipClosing) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iter-step.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-step.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_iter-step.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -7988,9 +7988,9 @@ module.exports = function (done, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_iterators.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_iterators.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_iterators.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8000,9 +8000,9 @@ module.exports = {};
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_library.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_library.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_library.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8012,9 +8012,9 @@ module.exports = true;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_meta.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_meta.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_meta.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8076,9 +8076,9 @@ var meta = module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_microtask.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_microtask.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_microtask.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8156,9 +8156,9 @@ module.exports = function () {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_new-promise-capability.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_new-promise-capability.js ***!
-  \******************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_new-promise-capability.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8186,9 +8186,9 @@ module.exports.f = function (C) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-assign.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-assign.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-assign.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8232,9 +8232,9 @@ module.exports = !$assign || __webpack_require__(/*! ./_fails */ "../../node_mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-create.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-create.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-create.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8284,9 +8284,9 @@ module.exports = Object.create || function create(O, Properties) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dp.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-dp.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-dp.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8311,9 +8311,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-dps.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-dps.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-dps.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8335,9 +8335,9 @@ module.exports = __webpack_require__(/*! ./_descriptors */ "../../node_modules/c
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopd.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gopd.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gopd.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8362,9 +8362,9 @@ exports.f = __webpack_require__(/*! ./_descriptors */ "../../node_modules/core-j
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn-ext.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gopn-ext.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8392,9 +8392,9 @@ module.exports.f = function getOwnPropertyNames(it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gopn.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gopn.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gopn.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8410,9 +8410,9 @@ exports.f = Object.getOwnPropertyNames || function getOwnPropertyNames(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gops.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gops.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gops.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8422,9 +8422,9 @@ exports.f = Object.getOwnPropertySymbols;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-gpo.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gpo.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-gpo.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8446,9 +8446,9 @@ module.exports = Object.getPrototypeOf || function (O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys-internal.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-keys-internal.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-keys-internal.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8474,9 +8474,9 @@ module.exports = function (object, names) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-keys.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-keys.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-keys.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8492,9 +8492,9 @@ module.exports = Object.keys || function keys(O) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-pie.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-pie.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-pie.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8504,9 +8504,9 @@ exports.f = {}.propertyIsEnumerable;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_object-sap.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_object-sap.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_object-sap.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8525,9 +8525,9 @@ module.exports = function (KEY, exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_perform.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_perform.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_perform.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8543,9 +8543,9 @@ module.exports = function (exec) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_promise-resolve.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_promise-resolve.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_promise-resolve.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8566,9 +8566,9 @@ module.exports = function (C, x) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_property-desc.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_property-desc.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_property-desc.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8585,9 +8585,9 @@ module.exports = function (bitmap, value) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine-all.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_redefine-all.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_redefine-all.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8603,9 +8603,9 @@ module.exports = function (target, src, safe) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_redefine.js":
-/*!****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_redefine.js ***!
-  \****************************************************************************************************/
+/*!*********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_redefine.js ***!
+  \*********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8615,9 +8615,9 @@ module.exports = __webpack_require__(/*! ./_hide */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-from.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_set-collection-from.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_set-collection-from.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8655,9 +8655,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-collection-of.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_set-collection-of.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_set-collection-of.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8679,9 +8679,9 @@ module.exports = function (COLLECTION) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-proto.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_set-proto.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_set-proto.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8715,9 +8715,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-species.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_set-species.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_set-species.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8741,9 +8741,9 @@ module.exports = function (KEY) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_set-to-string-tag.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_set-to-string-tag.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8759,9 +8759,9 @@ module.exports = function (it, tag, stat) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared-key.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_shared-key.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_shared-key.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8775,9 +8775,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_shared.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_shared.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_shared.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8798,9 +8798,9 @@ var store = global[SHARED] || (global[SHARED] = {});
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_species-constructor.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_species-constructor.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_species-constructor.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8818,9 +8818,9 @@ module.exports = function (O, D) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_string-at.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_string-at.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_string-at.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8846,9 +8846,9 @@ module.exports = function (TO_STRING) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_task.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_task.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_task.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8941,9 +8941,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-absolute-index.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_to-absolute-index.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_to-absolute-index.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8959,9 +8959,9 @@ module.exports = function (index, length) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-integer.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_to-integer.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_to-integer.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -8976,9 +8976,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-iobject.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_to-iobject.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_to-iobject.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -8993,9 +8993,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-length.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_to-length.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_to-length.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9010,9 +9010,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-object.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_to-object.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_to-object.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9026,9 +9026,9 @@ module.exports = function (it) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_to-primitive.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_to-primitive.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_to-primitive.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9049,9 +9049,9 @@ module.exports = function (it, S) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_uid.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_uid.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_uid.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -9065,9 +9065,9 @@ module.exports = function (key) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_user-agent.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_user-agent.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_user-agent.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9080,9 +9080,9 @@ module.exports = navigator && navigator.userAgent || '';
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_validate-collection.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_validate-collection.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_validate-collection.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9096,9 +9096,9 @@ module.exports = function (it, TYPE) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-define.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_wks-define.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_wks-define.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9116,9 +9116,9 @@ module.exports = function (name) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks-ext.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_wks-ext.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_wks-ext.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9128,9 +9128,9 @@ exports.f = __webpack_require__(/*! ./_wks */ "../../node_modules/core-js/librar
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/_wks.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/_wks.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/_wks.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9150,9 +9150,9 @@ $exports.store = store;
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator-method.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
-  \*******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/core.get-iterator-method.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9169,9 +9169,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.get-iterator.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/core.get-iterator.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/core.get-iterator.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9187,9 +9187,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/core.is-iterable.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/core.is-iterable.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/core.is-iterable.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9208,9 +9208,9 @@ module.exports = __webpack_require__(/*! ./_core */ "../../node_modules/core-js/
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.from.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.array.from.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.array.from.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9257,9 +9257,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_iter-detect */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.array.iterator.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.array.iterator.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.array.iterator.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9303,9 +9303,9 @@ addToUnscopables('entries');
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.assign.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.assign.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.assign.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9318,9 +9318,9 @@ $export($export.S + $export.F, 'Object', { assign: __webpack_require__(/*! ./_ob
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.create.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.create.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.create.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9332,9 +9332,9 @@ $export($export.S, 'Object', { create: __webpack_require__(/*! ./_object-create 
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.define-property.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.define-property.js ***!
-  \*********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.define-property.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9346,9 +9346,9 @@ $export($export.S + $export.F * !__webpack_require__(/*! ./_descriptors */ "../.
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js ***!
-  \*********************************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.get-own-property-descriptor.js ***!
+  \**************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9366,9 +9366,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.get-prototype-of.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
-  \**********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.get-prototype-of.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9386,9 +9386,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.keys.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.keys.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.keys.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9406,9 +9406,9 @@ __webpack_require__(/*! ./_object-sap */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.set-prototype-of.js":
-/*!**********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
-  \**********************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.set-prototype-of.js ***!
+  \***************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9420,9 +9420,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.object.to-string.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.to-string.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.object.to-string.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -9431,9 +9431,9 @@ $export($export.S, 'Object', { setPrototypeOf: __webpack_require__(/*! ./_set-pr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.promise.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.promise.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.promise.js ***!
+  \***********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9729,9 +9729,9 @@ $export($export.S + $export.F * !(USE_NATIVE && __webpack_require__(/*! ./_iter-
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.reflect.construct.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.reflect.construct.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.reflect.construct.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9787,9 +9787,9 @@ $export($export.S + $export.F * (NEW_TARGET_BUG || ARGS_BUG), 'Reflect', {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.set.js":
-/*!**************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.set.js ***!
-  \**************************************************************************************************/
+/*!*******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.set.js ***!
+  \*******************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9813,9 +9813,9 @@ module.exports = __webpack_require__(/*! ./_collection */ "../../node_modules/co
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.string.iterator.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.string.iterator.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.string.iterator.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9842,9 +9842,9 @@ __webpack_require__(/*! ./_iter-define */ "../../node_modules/core-js/library/mo
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es6.symbol.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es6.symbol.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es6.symbol.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10088,9 +10088,9 @@ setToStringTag(global.JSON, 'JSON', true);
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.finally.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es7.promise.finally.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es7.promise.finally.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10120,9 +10120,9 @@ $export($export.P + $export.R, 'Promise', { 'finally': function (onFinally) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.promise.try.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es7.promise.try.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es7.promise.try.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10144,9 +10144,9 @@ $export($export.S, 'Promise', { 'try': function (callbackfn) {
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.from.js":
-/*!*******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es7.set.from.js ***!
-  \*******************************************************************************************************/
+/*!************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es7.set.from.js ***!
+  \************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10157,9 +10157,9 @@ __webpack_require__(/*! ./_set-collection-from */ "../../node_modules/core-js/li
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.of.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es7.set.of.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es7.set.of.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10170,9 +10170,9 @@ __webpack_require__(/*! ./_set-collection-of */ "../../node_modules/core-js/libr
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.set.to-json.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es7.set.to-json.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es7.set.to-json.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10185,9 +10185,9 @@ $export($export.P + $export.R, 'Set', { toJSON: __webpack_require__(/*! ./_colle
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.async-iterator.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
-  \********************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es7.symbol.async-iterator.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10197,9 +10197,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/es7.symbol.observable.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/es7.symbol.observable.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10209,9 +10209,9 @@ __webpack_require__(/*! ./_wks-define */ "../../node_modules/core-js/library/mod
 /***/ }),
 
 /***/ "../../node_modules/core-js/library/modules/web.dom.iterable.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/core-js/library/modules/web.dom.iterable.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/core-js/library/modules/web.dom.iterable.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10239,9 +10239,9 @@ for (var i = 0; i < DOMIterables.length; i++) {
 /***/ }),
 
 /***/ "../../node_modules/fast-json-stable-stringify/index.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/fast-json-stable-stringify/index.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/fast-json-stable-stringify/index.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10343,9 +10343,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_a77a75e478981c1e0d25
 /***/ }),
 
 /***/ "../../node_modules/fbjs/lib/warning.js":
-/*!***********************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/fbjs/lib/warning.js ***!
-  \***********************************************************************************/
+/*!****************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/fbjs/lib/warning.js ***!
+  \****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10416,9 +10416,9 @@ module.exports = warning;
 /***/ }),
 
 /***/ "../../node_modules/graphql-anywhere/lib/async.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql-anywhere/lib/async.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql-anywhere/lib/async.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10611,9 +10611,9 @@ module.exports = warning;
 /***/ }),
 
 /***/ "../../node_modules/graphql-anywhere/lib/graphql.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql-anywhere/lib/graphql.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql-anywhere/lib/graphql.js ***!
+  \****************************************************************************************************/
 /*! exports provided: graphql, merge */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10733,9 +10733,9 @@ function merge(dest, src) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-anywhere/lib/index.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql-anywhere/lib/index.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql-anywhere/lib/index.js ***!
+  \**************************************************************************************************/
 /*! exports provided: filter, check, propType, default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10757,9 +10757,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql-anywhere/lib/utilities.js":
-/*!*************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql-anywhere/lib/utilities.js ***!
-  \*************************************************************************************************/
+/*!******************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql-anywhere/lib/utilities.js ***!
+  \******************************************************************************************************/
 /*! exports provided: filter, check, propType */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -10843,9 +10843,9 @@ function propType(doc) {
 /***/ }),
 
 /***/ "../../node_modules/graphql-tag/src/index.js":
-/*!****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql-tag/src/index.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql-tag/src/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11034,9 +11034,9 @@ module.exports = gql;
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/GraphQLError.mjs":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/error/GraphQLError.mjs ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/error/GraphQLError.mjs ***!
+  \***************************************************************************************************/
 /*! exports provided: GraphQLError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11179,9 +11179,9 @@ GraphQLError.prototype = Object.create(Error.prototype, {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/formatError.mjs":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/error/formatError.mjs ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/error/formatError.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: formatError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11219,9 +11219,9 @@ function formatError(error) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/index.mjs":
-/*!***************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/error/index.mjs ***!
-  \***************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/error/index.mjs ***!
+  \********************************************************************************************/
 /*! exports provided: GraphQLError, syntaxError, locatedError, printError, formatError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11260,9 +11260,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/locatedError.mjs":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/error/locatedError.mjs ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/error/locatedError.mjs ***!
+  \***************************************************************************************************/
 /*! exports provided: locatedError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11301,9 +11301,9 @@ function locatedError(originalError, nodes, path) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/printError.mjs":
-/*!********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/error/printError.mjs ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/error/printError.mjs ***!
+  \*************************************************************************************************/
 /*! exports provided: printError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11379,9 +11379,9 @@ function lpad(len, str) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/error/syntaxError.mjs":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/error/syntaxError.mjs ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/error/syntaxError.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: syntaxError */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11412,9 +11412,9 @@ function syntaxError(source, position, description) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/jsutils/invariant.mjs":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/jsutils/invariant.mjs ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/jsutils/invariant.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11440,9 +11440,9 @@ function invariant(condition, message) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/blockStringValue.mjs":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/blockStringValue.mjs ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/blockStringValue.mjs ***!
+  \**********************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11514,9 +11514,9 @@ function isBlank(str) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/directiveLocation.mjs":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/directiveLocation.mjs ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/directiveLocation.mjs ***!
+  \***********************************************************************************************************/
 /*! exports provided: DirectiveLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11565,9 +11565,9 @@ var DirectiveLocation = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/kinds.mjs":
-/*!******************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/kinds.mjs ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/kinds.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: Kind */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -11657,9 +11657,9 @@ var Kind = Object.freeze({
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/lexer.mjs":
-/*!******************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/lexer.mjs ***!
-  \******************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/lexer.mjs ***!
+  \***********************************************************************************************/
 /*! exports provided: createLexer, TokenKind, getTokenDesc */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -12260,9 +12260,9 @@ function readName(source, start, line, col, prev) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/location.mjs":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/location.mjs ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/location.mjs ***!
+  \**************************************************************************************************/
 /*! exports provided: getLocation */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -12303,9 +12303,9 @@ function getLocation(source, position) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/parser.mjs":
-/*!*******************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/parser.mjs ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/parser.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: parse, parseValue, parseType, parseConstValue, parseTypeReference, parseNamedType */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -13666,9 +13666,9 @@ function many(lexer, openKind, parseFn, closeKind) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/printer.mjs":
-/*!********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/printer.mjs ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/printer.mjs ***!
+  \*************************************************************************************************/
 /*! exports provided: print */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -14014,9 +14014,9 @@ function printBlockString(value, isDescription) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/source.mjs":
-/*!*******************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/source.mjs ***!
-  \*******************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/source.mjs ***!
+  \************************************************************************************************/
 /*! exports provided: Source */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -14058,9 +14058,9 @@ var Source = function Source(body, name, locationOffset) {
 /***/ }),
 
 /***/ "../../node_modules/graphql/language/visitor.mjs":
-/*!********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/graphql/language/visitor.mjs ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/graphql/language/visitor.mjs ***!
+  \*************************************************************************************************/
 /*! exports provided: QueryDocumentKeys, BREAK, visit, visitInParallel, visitWithTypeInfo, getVisitFn */
 /***/ (function(__webpack_module__, __webpack_exports__, __webpack_require__) {
 
@@ -14487,9 +14487,9 @@ function getVisitFn(visitor, kind, isLeaving) {
 /***/ }),
 
 /***/ "../../node_modules/invariant/browser.js":
-/*!************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/invariant/browser.js ***!
-  \************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/invariant/browser.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14548,9 +14548,9 @@ module.exports = invariant;
 /***/ }),
 
 /***/ "../../node_modules/isomorphic-unfetch/browser.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/isomorphic-unfetch/browser.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/isomorphic-unfetch/browser.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14560,9 +14560,9 @@ module.exports = window.fetch || (window.fetch = __webpack_require__(/*! unfetch
 /***/ }),
 
 /***/ "../../node_modules/isomorphic-unfetch/node_modules/unfetch/dist/unfetch.es.js":
-/*!**************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/isomorphic-unfetch/node_modules/unfetch/dist/unfetch.es.js ***!
-  \**************************************************************************************************************************/
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/isomorphic-unfetch/node_modules/unfetch/dist/unfetch.es.js ***!
+  \*******************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -14629,9 +14629,9 @@ var index = typeof fetch=='function' ? fetch.bind() : function(url, options) {
 /***/ }),
 
 /***/ "../../node_modules/next/app.js":
-/*!***************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/app.js ***!
-  \***************************************************************************/
+/*!********************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/app.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14641,9 +14641,9 @@ module.exports = __webpack_require__(/*! ./dist/lib/app */ "../../node_modules/n
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/EventEmitter.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/EventEmitter.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/EventEmitter.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14722,9 +14722,9 @@ exports.default = EventEmitter;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/app.js":
-/*!************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/app.js ***!
-  \************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/app.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -14964,9 +14964,9 @@ function createUrl(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/head.js":
-/*!*************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/head.js ***!
-  \*************************************************************************************/
+/*!******************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/head.js ***!
+  \******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15119,9 +15119,9 @@ exports.default = _default;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/p-queue.js":
-/*!****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/p-queue.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/p-queue.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15264,9 +15264,9 @@ exports.default = PQueue;
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/router/index.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/router/index.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/router/index.js ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -15483,9 +15483,9 @@ function makePublicRouterInstance(router) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/router/router.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/router/router.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/router/router.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16313,9 +16313,9 @@ function toRoute(path) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/router/with-router.js":
-/*!***************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/router/with-router.js ***!
-  \***************************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/router/with-router.js ***!
+  \********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16388,9 +16388,9 @@ function withRouter(ComposedComponent) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/shallow-equals.js":
-/*!***********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/shallow-equals.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/shallow-equals.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16417,9 +16417,9 @@ function shallowEquals(a, b) {
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/side-effect.js":
-/*!********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/side-effect.js ***!
-  \********************************************************************************************/
+/*!*************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/side-effect.js ***!
+  \*************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16553,9 +16553,9 @@ function withSideEffect(reduceComponentsToState, handleStateChangeOnClient, mapS
 /***/ }),
 
 /***/ "../../node_modules/next/dist/lib/utils.js":
-/*!**************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/lib/utils.js ***!
-  \**************************************************************************************/
+/*!*******************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/lib/utils.js ***!
+  \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16742,9 +16742,9 @@ function getURL() {
 /***/ }),
 
 /***/ "../../node_modules/next/head.js":
-/*!****************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/head.js ***!
-  \****************************************************************************/
+/*!*********************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/head.js ***!
+  \*********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16754,9 +16754,9 @@ module.exports = __webpack_require__(/*! ./dist/lib/head */ "../../node_modules/
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/@babel/runtime/regenerator/index.js":
-/*!*********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/node_modules/@babel/runtime/regenerator/index.js ***!
-  \*********************************************************************************************************************/
+/*!**************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/node_modules/@babel/runtime/regenerator/index.js ***!
+  \**************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16766,9 +16766,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/hoist-non-react-statics/index.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/node_modules/hoist-non-react-statics/index.js ***!
-  \******************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/node_modules/hoist-non-react-statics/index.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16848,9 +16848,9 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/prop-types/checkPropTypes.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/node_modules/prop-types/checkPropTypes.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/node_modules/prop-types/checkPropTypes.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -16919,9 +16919,9 @@ module.exports = checkPropTypes;
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js":
-/*!***********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js ***!
-  \***********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/node_modules/prop-types/factoryWithTypeCheckers.js ***!
+  \****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17473,9 +17473,9 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/prop-types/index.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/node_modules/prop-types/index.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/node_modules/prop-types/index.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17508,9 +17508,9 @@ if (true) {
 /***/ }),
 
 /***/ "../../node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js":
-/*!************************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
-  \************************************************************************************************************************/
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+  \*****************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -17642,9 +17642,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_a77a75e478981c1e0d25
 /***/ }),
 
 /***/ "../../node_modules/process/browser.js":
-/*!**********************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/process/browser.js ***!
-  \**********************************************************************************/
+/*!***************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/process/browser.js ***!
+  \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -17837,9 +17837,9 @@ process.umask = function() { return 0; };
 /***/ }),
 
 /***/ "../../node_modules/punycode/punycode.js":
-/*!************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/punycode/punycode.js ***!
-  \************************************************************************************/
+/*!*****************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/punycode/punycode.js ***!
+  \*****************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18368,9 +18368,9 @@ process.umask = function() { return 0; };
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/decode.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/querystring-es3/decode.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/querystring-es3/decode.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18464,9 +18464,9 @@ var isArray = Array.isArray || function (xs) {
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/encode.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/querystring-es3/encode.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/querystring-es3/encode.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18561,9 +18561,9 @@ var objectKeys = Object.keys || function (obj) {
 /***/ }),
 
 /***/ "../../node_modules/querystring-es3/index.js":
-/*!****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/querystring-es3/index.js ***!
-  \****************************************************************************************/
+/*!*********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/querystring-es3/index.js ***!
+  \*********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18577,9 +18577,9 @@ exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ "../../
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_LazyWrapper.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_LazyWrapper.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_LazyWrapper.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18616,9 +18616,9 @@ module.exports = LazyWrapper;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_LodashWrapper.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_LodashWrapper.js ***!
-  \******************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_LodashWrapper.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18649,9 +18649,9 @@ module.exports = LodashWrapper;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_Symbol.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_Symbol.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_Symbol.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18666,9 +18666,9 @@ module.exports = Symbol;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_WeakMap.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_WeakMap.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_WeakMap.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18684,9 +18684,9 @@ module.exports = WeakMap;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_apply.js":
-/*!**********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_apply.js ***!
-  \**********************************************************************************************************/
+/*!***************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_apply.js ***!
+  \***************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -18716,9 +18716,9 @@ module.exports = apply;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_arrayPush.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_arrayPush.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_arrayPush.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -18747,9 +18747,9 @@ module.exports = arrayPush;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_baseCreate.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseCreate.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseCreate.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18788,9 +18788,9 @@ module.exports = baseCreate;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_baseFlatten.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseFlatten.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseFlatten.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18837,9 +18837,9 @@ module.exports = baseFlatten;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_baseGetTag.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseGetTag.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseGetTag.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18876,9 +18876,9 @@ module.exports = baseGetTag;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_baseIsArguments.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseIsArguments.js ***!
-  \********************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseIsArguments.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18905,9 +18905,9 @@ module.exports = baseIsArguments;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_baseIsNative.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseIsNative.js ***!
-  \*****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseIsNative.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -18963,9 +18963,9 @@ module.exports = baseIsNative;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_baseLodash.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseLodash.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseLodash.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -18984,9 +18984,9 @@ module.exports = baseLodash;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_baseSetToString.js":
-/*!********************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseSetToString.js ***!
-  \********************************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_baseSetToString.js ***!
+  \*************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19017,9 +19017,9 @@ module.exports = baseSetToString;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_copyArray.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_copyArray.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_copyArray.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19048,9 +19048,9 @@ module.exports = copyArray;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_coreJsData.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_coreJsData.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_coreJsData.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19065,9 +19065,9 @@ module.exports = coreJsData;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_createFlow.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_createFlow.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_createFlow.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19154,9 +19154,9 @@ module.exports = createFlow;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_defineProperty.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_defineProperty.js ***!
-  \*******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_defineProperty.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19176,9 +19176,9 @@ module.exports = defineProperty;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_flatRest.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_flatRest.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_flatRest.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19203,9 +19203,9 @@ module.exports = flatRest;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_freeGlobal.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_freeGlobal.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_freeGlobal.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19219,9 +19219,9 @@ module.exports = freeGlobal;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_getData.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getData.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getData.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19245,9 +19245,9 @@ module.exports = getData;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_getFuncName.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getFuncName.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getFuncName.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19287,9 +19287,9 @@ module.exports = getFuncName;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_getNative.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getNative.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getNative.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19315,9 +19315,9 @@ module.exports = getNative;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_getRawTag.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getRawTag.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getRawTag.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19372,9 +19372,9 @@ module.exports = getRawTag;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_getValue.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getValue.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_getValue.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19396,9 +19396,9 @@ module.exports = getValue;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_isFlattenable.js":
-/*!******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_isFlattenable.js ***!
-  \******************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_isFlattenable.js ***!
+  \***********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19427,9 +19427,9 @@ module.exports = isFlattenable;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_isLaziable.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_isLaziable.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_isLaziable.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19466,9 +19466,9 @@ module.exports = isLaziable;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_isMasked.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_isMasked.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_isMasked.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19497,9 +19497,9 @@ module.exports = isMasked;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_metaMap.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_metaMap.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_metaMap.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19514,9 +19514,9 @@ module.exports = metaMap;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_objectToString.js":
-/*!*******************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_objectToString.js ***!
-  \*******************************************************************************************************************/
+/*!************************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_objectToString.js ***!
+  \************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19547,9 +19547,9 @@ module.exports = objectToString;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_overRest.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_overRest.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_overRest.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19594,9 +19594,9 @@ module.exports = overRest;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_realNames.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_realNames.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_realNames.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19609,9 +19609,9 @@ module.exports = realNames;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_root.js":
-/*!*********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_root.js ***!
-  \*********************************************************************************************************/
+/*!**************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_root.js ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19629,9 +19629,9 @@ module.exports = root;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_setToString.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_setToString.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_setToString.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19654,9 +19654,9 @@ module.exports = setToString;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_shortOut.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_shortOut.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_shortOut.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19702,9 +19702,9 @@ module.exports = shortOut;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_toSource.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_toSource.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_toSource.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19739,9 +19739,9 @@ module.exports = toSource;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/_wrapperClone.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_wrapperClone.js ***!
-  \*****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/_wrapperClone.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19773,9 +19773,9 @@ module.exports = wrapperClone;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/constant.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/constant.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/constant.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19810,9 +19810,9 @@ module.exports = constant;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/flatten.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/flatten.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/flatten.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19843,9 +19843,9 @@ module.exports = flatten;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/flowRight.js":
-/*!*************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/flowRight.js ***!
-  \*************************************************************************************************************/
+/*!******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/flowRight.js ***!
+  \******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19880,9 +19880,9 @@ module.exports = flowRight;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/identity.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/identity.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/identity.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19912,9 +19912,9 @@ module.exports = identity;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/isArguments.js":
-/*!***************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isArguments.js ***!
-  \***************************************************************************************************************/
+/*!********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isArguments.js ***!
+  \********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -19959,9 +19959,9 @@ module.exports = isArguments;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/isArray.js":
-/*!***********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isArray.js ***!
-  \***********************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isArray.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -19996,9 +19996,9 @@ module.exports = isArray;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/isFunction.js":
-/*!**************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isFunction.js ***!
-  \**************************************************************************************************************/
+/*!*******************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isFunction.js ***!
+  \*******************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20044,9 +20044,9 @@ module.exports = isFunction;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/isObject.js":
-/*!************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isObject.js ***!
-  \************************************************************************************************************/
+/*!*****************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isObject.js ***!
+  \*****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -20086,9 +20086,9 @@ module.exports = isObject;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/isObjectLike.js":
-/*!****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isObjectLike.js ***!
-  \****************************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/isObjectLike.js ***!
+  \*********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -20126,9 +20126,9 @@ module.exports = isObjectLike;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/noop.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/noop.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/noop.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -20154,9 +20154,9 @@ module.exports = noop;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/node_modules/lodash/wrapperLodash.js":
-/*!*****************************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/wrapperLodash.js ***!
-  \*****************************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/node_modules/lodash/wrapperLodash.js ***!
+  \**********************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -20312,9 +20312,9 @@ module.exports = lodash;
 /***/ }),
 
 /***/ "../../node_modules/react-apollo/react-apollo.browser.umd.js":
-/*!********************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/react-apollo/react-apollo.browser.umd.js ***!
-  \********************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/react-apollo/react-apollo.browser.umd.js ***!
+  \*************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21478,9 +21478,9 @@ module.exports = (__webpack_require__(/*! dll-reference dll_a77a75e478981c1e0d25
 /***/ }),
 
 /***/ "../../node_modules/regenerator-runtime/runtime-module.js":
-/*!*****************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/regenerator-runtime/runtime-module.js ***!
-  \*****************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/regenerator-runtime/runtime-module.js ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -21526,9 +21526,9 @@ if (hadRuntime) {
 /***/ }),
 
 /***/ "../../node_modules/regenerator-runtime/runtime.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/regenerator-runtime/runtime.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/regenerator-runtime/runtime.js ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -22258,9 +22258,9 @@ if (hadRuntime) {
 /***/ }),
 
 /***/ "../../node_modules/symbol-observable/es/index.js":
-/*!*********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/symbol-observable/es/index.js ***!
-  \*********************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/symbol-observable/es/index.js ***!
+  \**************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22290,9 +22290,9 @@ var result = Object(_ponyfill_js__WEBPACK_IMPORTED_MODULE_0__["default"])(root);
 /***/ }),
 
 /***/ "../../node_modules/symbol-observable/es/ponyfill.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/symbol-observable/es/ponyfill.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/symbol-observable/es/ponyfill.js ***!
+  \*****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -22321,9 +22321,9 @@ function symbolObservablePonyfill(root) {
 /***/ }),
 
 /***/ "../../node_modules/url/url.js":
-/*!**************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/url/url.js ***!
-  \**************************************************************************/
+/*!*******************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/url/url.js ***!
+  \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23065,9 +23065,9 @@ Url.prototype.parseHost = function() {
 /***/ }),
 
 /***/ "../../node_modules/url/util.js":
-/*!***************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/url/util.js ***!
-  \***************************************************************************/
+/*!********************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/url/util.js ***!
+  \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23093,9 +23093,9 @@ module.exports = {
 /***/ }),
 
 /***/ "../../node_modules/zen-observable-ts/lib/index.js":
-/*!**********************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/zen-observable-ts/lib/index.js ***!
-  \**********************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/zen-observable-ts/lib/index.js ***!
+  \***************************************************************************************************/
 /*! exports provided: default, Observable */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23112,9 +23112,9 @@ __webpack_require__.r(__webpack_exports__);
 /***/ }),
 
 /***/ "../../node_modules/zen-observable-ts/lib/zenObservable.js":
-/*!******************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/zen-observable-ts/lib/zenObservable.js ***!
-  \******************************************************************************************************/
+/*!***********************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/zen-observable-ts/lib/zenObservable.js ***!
+  \***********************************************************************************************************/
 /*! exports provided: Observable */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -23130,9 +23130,9 @@ var Observable = zen_observable__WEBPACK_IMPORTED_MODULE_0___default.a;
 /***/ }),
 
 /***/ "../../node_modules/zen-observable/index.js":
-/*!***************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/zen-observable/index.js ***!
-  \***************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/zen-observable/index.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23142,9 +23142,9 @@ module.exports = __webpack_require__(/*! ./lib/Observable.js */ "../../node_modu
 /***/ }),
 
 /***/ "../../node_modules/zen-observable/lib/Observable.js":
-/*!************************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/zen-observable/lib/Observable.js ***!
-  \************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/zen-observable/lib/Observable.js ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -23832,7 +23832,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_apollo__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react-apollo */ "../../node_modules/react-apollo/react-apollo.browser.umd.js");
 /* harmony import */ var react_apollo__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react_apollo__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "/Users/Declan/coding/yarn-workspaces-react/packages/next/lib/with-apollo-client.js";
+var _jsxFileName = "/Users/declonelcocks/code/yarn-workspaces-react/packages/next/lib/with-apollo-client.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 
@@ -24005,7 +24005,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _lib_with_apollo_client__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../lib/with-apollo-client */ "./lib/with-apollo-client.js");
 /* harmony import */ var react_apollo__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react-apollo */ "../../node_modules/react-apollo/react-apollo.browser.umd.js");
 /* harmony import */ var react_apollo__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react_apollo__WEBPACK_IMPORTED_MODULE_3__);
-var _jsxFileName = "/Users/Declan/coding/yarn-workspaces-react/packages/next/pages/_app.js";
+var _jsxFileName = "/Users/declonelcocks/code/yarn-workspaces-react/packages/next/pages/_app.js";
 
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 

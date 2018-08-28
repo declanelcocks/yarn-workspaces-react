@@ -3,6 +3,7 @@ import { configure, addDecorator } from '@storybook/react'
 import { withConsole } from '@storybook/addon-console'
 import { setOptions } from '@storybook/addon-options'
 import Wrapper from './Wrapper'
+import './mockNextRouter'
 
 import './style.css'
 

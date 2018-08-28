@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/next/dist/pages/_error.js":
-/*!*****************************************************************************************!*\
-  !*** /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/pages/_error.js ***!
-  \*****************************************************************************************/
+/*!**********************************************************************************************!*\
+  !*** /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/pages/_error.js ***!
+  \**********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -106,13 +106,13 @@ module.exports = __webpack_require__(/*! next/error */ "next/error")
 /***/ }),
 
 /***/ 2:
-/*!***********************************************************************************************!*\
-  !*** multi /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/pages/_error.js ***!
-  \***********************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** multi /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/pages/_error.js ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/Declan/coding/yarn-workspaces-react/node_modules/next/dist/pages/_error.js */"../../node_modules/next/dist/pages/_error.js");
+module.exports = __webpack_require__(/*! /Users/declonelcocks/code/yarn-workspaces-react/node_modules/next/dist/pages/_error.js */"../../node_modules/next/dist/pages/_error.js");
 
 
 /***/ }),
