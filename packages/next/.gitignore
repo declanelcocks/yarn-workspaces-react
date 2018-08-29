@@ -1,2 +1,6 @@
 .next
 .DS_Store
+node_modules
+
+# Yarn workspaces => Use Yarn!
+package-lock.json

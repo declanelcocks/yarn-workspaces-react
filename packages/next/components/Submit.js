@@ -1,10 +1,11 @@
+import PropTypes from 'prop-types'
 import { graphql } from 'react-apollo'
 import gql from 'graphql-tag'
-import { allPosts, allPostsQueryVars } from './PostList'
-import { Button } from '@8securities/ui'
 
-function Submit ({ createPost }) {
-  function handleSubmit (event) {
+import { allPosts, allPostsQueryVars } from './PostList'
+
+function Submit({ createPost }) {
+  function handleSubmit(event) {
     event.preventDefault()
 
     const form = event.target
@@ -20,23 +21,29 @@ function Submit ({ createPost }) {
       <h1>Submit</h1>
       <input placeholder='title' name='title' type='text' required />
       <input placeholder='url' name='url' type='url' required />
-      <Button type='submit'>Submit</Button>
-      <style jsx>{`
-        form {
-          border-bottom: 1px solid #ececec;
-          padding-bottom: 20px;
-          margin-bottom: 20px;
-        }
-        h1 {
-          font-size: 20px;
-        }
-        input {
-          display: block;
-          margin-bottom: 10px;
-        }
-      `}</style>
+      <button type='submit'>Submit</button>
+      <style jsx>
+        {`
+          form {
+            border-bottom: 1px solid #ececec;
+            padding-bottom: 20px;
+            margin-bottom: 20px;
+          }
+          h1 {
+            font-size: 20px;
+          }
+          input {
+            display: block;
+            margin-bottom: 10px;
+          }
+        `}
+      </style>
     </form>
   )
+}
+
+Submit.propTypes = {
+  createPost: PropTypes.func.isRequired,
 }
 
 const createPost = gql`
@@ -53,23 +60,23 @@ const createPost = gql`
 
 export default graphql(createPost, {
   props: ({ mutate }) => ({
-    createPost: (title, url) =>
-      mutate({
-        variables: { title, url },
-        update: (proxy, { data: { createPost } }) => {
-          const data = proxy.readQuery({
-            query: allPosts,
-            variables: allPostsQueryVars
-          })
-          proxy.writeQuery({
-            query: allPosts,
-            data: {
-              ...data,
-              allPosts: [createPost, ...data.allPosts]
-            },
-            variables: allPostsQueryVars
-          })
-        }
-      })
-  })
+    createPost: (title, url) => mutate({
+      variables: { title, url },
+      update: (proxy, { data: { createPost } }) => {
+        const data = proxy.readQuery({
+          query: allPosts,
+          variables: allPostsQueryVars,
+        })
+
+        proxy.writeQuery({
+          query: allPosts,
+          data: {
+            ...data,
+            allPosts: [createPost, ...data.allPosts],
+          },
+          variables: allPostsQueryVars,
+        })
+      },
+    }),
+  }),
 })(Submit)
