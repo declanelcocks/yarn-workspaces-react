@@ -6,6 +6,7 @@ export default class MyDocument extends Document {
     const sheet = new ServerStyleSheet()
     const page = renderPage(App => props => sheet.collectStyles(<App {...props} />))
     const styleTags = sheet.getStyleElement()
+
     return { ...page, styleTags }
   }
 
@@ -14,7 +15,6 @@ export default class MyDocument extends Document {
       <html lang='en'>
         <Head>
           <title>My page</title>
-          <link rel='stylesheet' href='/_next/static/style.css' />
           {this.props.styleTags}
         </Head>
         <body>
